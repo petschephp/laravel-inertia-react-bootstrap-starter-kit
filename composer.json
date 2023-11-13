@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "petschephp/laravel-react-bootstrap-spa",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": " Laravel-React SPA starter project template.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
