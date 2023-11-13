@@ -9,7 +9,7 @@ easily customized based on your own application's needs.
 
 ### Installation
 ```shell
-composer install
+composer create-project --prefer-dist petschephp/laravel-react-bootstrap-spa
 
 php artisan migrate
 
